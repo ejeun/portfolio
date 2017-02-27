@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio bootstrapped from create-react-app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeunlee/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeunlee/portfolio/issues"
+  },
+  "homepage": "https://github.com/jeunlee/portfolio#readme",
+  "dependencies": {
+  "react": "15.4.2",
+  "react-dom": "15.4.2"
+},
+  "devDependencies": {
+    "react-scripts": "0.9.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
+
